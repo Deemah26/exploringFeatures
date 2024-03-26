@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "403274828355",
+    "project_id": "elite1events-oz35fz",
+    "storage_bucket": "elite1events-oz35fz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403274828355:android:b3ab75aa8e58870f56a2f6",
+        "android_client_info": {
+          "package_name": "com.mycompany.elite1events"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbIgNuQnvTvbzTBZtZYVin88xruTcMVKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403274828355:android:01249eccf7c2735c56a2f6",
+        "android_client_info": {
+          "package_name": "com.mycompany.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbIgNuQnvTvbzTBZtZYVin88xruTcMVKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
